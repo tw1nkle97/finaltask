@@ -104,6 +104,6 @@
 
 7. 7-12. Работа с Mysql
 
-    ![Task7-12](/HumanFriendDb.sql)
+    ![Task7-12](/task7-12.sql)
 
 13. -15. 
